@@ -8,7 +8,7 @@ using Ocelot.Middleware;
 using CacheManager.Core;
 using ConfigurationBuilder = Microsoft.Extensions.Configuration.ConfigurationBuilder;
 using System;
-
+ 
 namespace ApiGateway{  
 
   public class Startup
