@@ -1,0 +1,10 @@
+C:\Users\dingj\Desktop\code\ocelot\ApiGateway\bin\Debug\netcoreapp2.0\ApiGateway.deps.json
+C:\Users\dingj\Desktop\code\ocelot\ApiGateway\bin\Debug\netcoreapp2.0\ApiGateway.runtimeconfig.json
+C:\Users\dingj\Desktop\code\ocelot\ApiGateway\bin\Debug\netcoreapp2.0\ApiGateway.runtimeconfig.dev.json
+C:\Users\dingj\Desktop\code\ocelot\ApiGateway\bin\Debug\netcoreapp2.0\ApiGateway.dll
+C:\Users\dingj\Desktop\code\ocelot\ApiGateway\bin\Debug\netcoreapp2.0\ApiGateway.pdb
+C:\Users\dingj\Desktop\code\ocelot\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\dingj\Desktop\code\ocelot\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\dingj\Desktop\code\ocelot\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.AssemblyInfo.cs
+C:\Users\dingj\Desktop\code\ocelot\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.dll
+C:\Users\dingj\Desktop\code\ocelot\ApiGateway\obj\Debug\netcoreapp2.0\ApiGateway.pdb
